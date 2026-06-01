@@ -3,7 +3,7 @@ from telegram.ext import ApplicationBuilder, CommandHandler, ContextTypes
 
 # Вставь свой токен сюда
 import os
-TOKEN = os.environ.get("TOKEN")
+TOKEN = os.environ.get("TOKEN") 
 
 # Обработчик команды /start
 async def start(update: Update, context: ContextTypes.DEFAULT_TYPE):
