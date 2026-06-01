@@ -26,7 +26,7 @@ from telegram.ext import ApplicationBuilder, CommandHandler, ContextTypes
 
 
 
-# import telebot
+import telebot
 
 # Вставь свой токен сюда
 import os
