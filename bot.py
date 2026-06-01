@@ -1,5 +1,5 @@
-# from telegram import Update
-# from telegram.ext import ApplicationBuilder, CommandHandler, ContextTypes
+from telegram import Update
+from telegram.ext import ApplicationBuilder, CommandHandler, ContextTypes
 
 # # Вставь свой токен сюда
 # import os
@@ -26,7 +26,7 @@
 
 
 
-import telebot
+# import telebot
 
 # Вставь свой токен сюда
 import os
